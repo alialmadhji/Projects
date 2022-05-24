@@ -377,15 +377,3 @@ public class Main {
     }
 
 }
-
-//Extra credit
-/*
-1.  What is polymorphism?
-Polymorphism means many forms and it occurs when we have many classes that are related to each other by inheritance
-
-2.  What is the difference between an exception and an error?
-The error indicates trouble that primarily occurs in the system, and exception is the issue that can appear at run and compile time.
-
-3.  What is the current built in GUI framework for Java?
-JavaFX
-*/
